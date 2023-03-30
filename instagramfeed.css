@@ -1,0 +1,32 @@
+div img {
+ padding: 3px;
+}
+
+.card {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-header {
+    display: block;
+    padding-top: 15px;
+}
+
+.card span {
+    font-size: .7rem;
+    float: right;
+}
+
+.card-title {
+    font-size: .9rem;
+}
+
+.navbar-brand span {
+    font-size: .9rem;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+}
